@@ -1,6 +1,4 @@
-# react-boilerplate
-
-My React boilerplate.
+# react-example
 
 ## Features
 
