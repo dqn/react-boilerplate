@@ -9,7 +9,7 @@
     "format": "prettier 'src/**/*.{js,jsx,ts,tsx}' --write"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.20.0",
     "axios-case-converter": "^0.6.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
