@@ -650,10 +650,10 @@ autoprefixer@9.8.6:
     postcss "^7.0.32"
     postcss-value-parser "^4.1.0"
 
-axios-case-converter@^0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/axios-case-converter/-/axios-case-converter-0.6.0.tgz#7a99120138046ad6faaf1fc2b638fea0fe63f26f"
-  integrity sha512-mlpaFFTBlv+o+NL2YPSWfC8BQv3qUesxTYD0N11/8dgrg0aDbxUaAglromCBI+0NUcfenM42xMGEUhzTtWZqKg==
+axios-case-converter@^0.7.0:
+  version "0.7.0"
+  resolved "https://registry.yarnpkg.com/axios-case-converter/-/axios-case-converter-0.7.0.tgz#e0a64aaf7201dde631d8d79087d18ee358ffa4cc"
+  integrity sha512-0TpWsZ6IvxVRYcK99H5zvFWtVYKYTIpJEPPLQzZ4tU61o0zjslyOrZoys9wVzTg8vWXizmRAuSqwIPBjCnMufA==
   dependencies:
     camel-case "^4.1.1"
     header-case "^2.0.3"
